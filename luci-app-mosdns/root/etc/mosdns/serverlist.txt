@@ -8100,6 +8100,8 @@ t.supermario.xyz
 t.targetuse.com
 t.trafmag.com
 t.ujian.cc
+t.vacations.disneydestinations.com
+t.visit.disneydestinations.com
 t.visitorqueue.com
 t.youmi.net
 t.yunsoka.com
