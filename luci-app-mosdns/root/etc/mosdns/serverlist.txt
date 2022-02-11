@@ -920,7 +920,6 @@ ads.bigfoot.com
 ads.bing.com
 ads.bittorrent.com
 ads.blog.com
-ads.bloomberg.com
 ads.bluemountain.com
 ads.boerding.com
 ads.boylesports.com
@@ -1057,7 +1056,6 @@ ads.isoftmarketing.com
 ads.itv.com
 ads.iwon.com
 ads.jewishfriendfinder.com
-ads.joaffs.com
 ads.jobsite.co.uk
 ads.jpost.com
 ads.juicyads.com
@@ -1369,7 +1367,6 @@ adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.juicyads.com
 adserver.lecool.com
-adserver.libero.it
 adserver.mobi
 adserver.msmb.biz
 adserver.news.com.au
@@ -2155,7 +2152,6 @@ balloontexture.com
 bam.nr-data.net
 banik.redigy.cz
 banner-exchange-24.de
-banner.ad.nu
 banner.alimama.com
 banner.ambercoastcasino.com
 banner.as.admaster.com.cn
@@ -6085,7 +6081,6 @@ nt.phpwind.com
 ntfsformac.cn
 ntv.io
 ntvk1.ru
-nuggad.net
 nuqstage-msevent.applovin.com
 nuseek.com
 nuttyorganization.com
@@ -7202,7 +7197,6 @@ s26.cnzz.com
 s27.cnzz.com
 s28.cnzz.com
 s29.cnzz.com
-s2d6.com
 s2s.adjust.com
 s2strk.info
 s3.aishangcan.com
@@ -8358,7 +8352,6 @@ tracelog-debug.aiclk.com
 track-help.admaster.com.cn
 track.58.com
 track.ad4game.com
-track.addevent.com
 track.adform.net
 track.admaster.com.cn
 track.adwo.com
@@ -8385,6 +8378,7 @@ track.ra.icast.cn
 track.recreativ.ru
 track.segmetrics.io
 track.sitetag.us
+track.software-codes.com
 track.sohu.com
 track.tenjin.com
 track.themaccleanup.info
