@@ -687,7 +687,6 @@ adfurikun.jp
 adfuture.cn
 adgardener.com
 adgeo.163.com
-adgoto.com
 adhaven.com
 adhese.be
 adhese.com
@@ -1358,7 +1357,6 @@ adserver.digitoday.com
 adserver.echdk.pl
 adserver.friendfinder.com
 adserver.generationiron.com
-adserver.gilligan.tech
 adserver.html.it
 adserver.hwupgrade.it
 adserver.ilango.de
@@ -1608,7 +1606,6 @@ adzbazar.com
 adzerk.net
 adzerk.s3.amazonaws.com
 adzestocp.com
-adzone.temp.co.za
 adzones.com
 adzrevads.com
 ae.bdstatic.com
@@ -1626,7 +1623,6 @@ affiliate.1800flowers.com
 affiliate.doubleyourdating.com
 affiliate.dtiserv.com
 affiliate.gamestop.com
-affiliate.mogs.com
 affiliate.offgamers.com
 affiliate.rusvpn.com
 affiliate.travelnow.com
@@ -2666,7 +2662,6 @@ cdn.dsp.com
 cdn.earnify.com
 cdn.fastclick.net
 cdn.flurry.com
-cdn.freefarcy.com
 cdn.freshmarketer.com
 cdn.heapanalytics.com
 cdn.hot-mob.com
@@ -3965,7 +3960,6 @@ fireworkadservices.com
 fireworkanalytics.com
 fireworks-advertising.com
 first.nova.cz
-firstlightera.com
 fivecdm.com
 fix.hpplay.cn
 fixel.ai
@@ -5032,6 +5026,7 @@ kameleoon.eu
 kanoodle.com
 kargo.com
 karonty.com
+katie.v4.byetnc.com
 kd.api.agrantsem.com
 kdl.huaxinsp.cn
 kejet.com
@@ -5295,7 +5290,6 @@ look.ichlnk.com
 look.opskln.com
 look.ufinkln.com
 loopme.com
-lop.com
 lottery.kuaiya.cn
 loudlunch.com
 lp.startapp.com
@@ -5969,6 +5963,7 @@ nad-stage1.ad-stir.com
 nad.ad-stir.com
 nad.leadboltads.net
 naj.sk
+naj22.proasdf.com
 nappyattack.com
 naradxb.com
 nastydollars.com
@@ -6778,7 +6773,6 @@ quantserve.com
 quantummetric.com
 quarterbean.com
 quarterserver.de
-questaffiliates.net
 quickkoala.io
 quicksandear.com
 quietknowledge.com
@@ -7199,6 +7193,7 @@ s26.cnzz.com
 s27.cnzz.com
 s28.cnzz.com
 s29.cnzz.com
+s2d6.com
 s2s.adjust.com
 s2strk.info
 s3.aishangcan.com
