@@ -517,6 +517,7 @@ ad.prv.pl
 ad.qingting.fm
 ad.qq.com
 ad.qun.qq.com
+ad.reachlocal.com
 ad.rednet.cn
 ad.seeyouyima.com
 ad.sensismediasmart.com.au
@@ -1057,7 +1058,6 @@ ads.itv.com
 ads.iwon.com
 ads.jewishfriendfinder.com
 ads.jobsite.co.uk
-ads.jpost.com
 ads.juicyads.com
 ads.justhungry.com
 ads.kabooaffiliates.com
@@ -1624,6 +1624,7 @@ affiliate.1800flowers.com
 affiliate.doubleyourdating.com
 affiliate.dtiserv.com
 affiliate.gamestop.com
+affiliate.mogs.com
 affiliate.offgamers.com
 affiliate.rusvpn.com
 affiliate.travelnow.com
@@ -5971,7 +5972,6 @@ naradxb.com
 nastydollars.com
 native.propellerads.com
 nativeads.cacafly.com
-nativeroll.tv
 naturalbid.com
 navegg.com
 navigator.io
@@ -7590,6 +7590,7 @@ sj.uukanshu.com
 sjbtn.appfh.com
 sjj.jsyjwj.com
 skimresources.com
+skroutza.skroutz.gr
 skylink.vn
 sl.hpplay.cn
 sleepcartoon.com
@@ -7988,7 +7989,6 @@ superclix.de
 superficialsquare.com
 supersonicads.com
 superstats.com
-supertop.ru
 supertop100.com
 supertracking.net
 supply.colossusssp.com
