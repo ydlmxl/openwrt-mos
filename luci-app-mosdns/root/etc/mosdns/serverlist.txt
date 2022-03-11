@@ -1130,7 +1130,6 @@ ads.oxyshop.cz
 ads.passion.com
 ads.passiontimes.hk
 ads.paymonex.net
-ads.pennet.com
 ads.pexi.nl
 ads.pfl.ua
 ads.phpclasses.org
@@ -1570,7 +1569,6 @@ advombat.ru
 adwasu.wasu.tv
 adwebone.com
 adwhirl.com
-adwords-track.com
 adwordsecommerce.com.br
 adworldnetwork.com
 adworx.at
@@ -2851,7 +2849,6 @@ clickedyclick.com
 clickfuse.com
 clickhereforcellphones.com
 clickhk.taboola.com
-clickhype.com
 clickjs.cnzz.com
 clicklink.jp
 clicklog.moviebox.baofeng.net
@@ -5922,7 +5919,6 @@ myads.net
 myads.telkomsel.com
 myaffiliateprogram.com
 mybbc-analytics.files.bbci.co.uk
-mybestmv.com
 mybetterdl.com
 mybloglog.com
 mybuys.com
@@ -5940,7 +5936,6 @@ mystat-in.net
 mystat.pl
 mysteriousmonth.com
 mytop-in.net
-mytrackingservers.com
 myvisualiq.net
 n-ad-bg.adwo.com
 n.35kds.com
@@ -5973,6 +5968,7 @@ naradxb.com
 nastydollars.com
 native.propellerads.com
 nativeads.cacafly.com
+nativeroll.tv
 naturalbid.com
 navegg.com
 navigator.io
@@ -7990,6 +7986,7 @@ superclix.de
 superficialsquare.com
 supersonicads.com
 superstats.com
+supertop.ru
 supertop100.com
 supertracking.net
 supply.colossusssp.com
