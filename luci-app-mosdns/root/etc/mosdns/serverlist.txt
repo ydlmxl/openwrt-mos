@@ -17,6 +17,7 @@
 1.up.qingdaonews.com
 1.xilu.com
 1.yhzm.cc
+1.yitooo.net
 101com.com
 101order.com
 1178.shucong.com
@@ -245,6 +246,7 @@ a.ltdnc.com
 a.mktw.net
 a.muloqot.uz
 a.oadz.com
+a.qchannel03.cn
 a.sakh.com
 a.shangz99991.com
 a.slsbc.cn
@@ -1156,6 +1158,7 @@ ads.quoka.de
 ads.radialserver.com
 ads.radio1.lv
 ads.rcs.it
+ads.reader.yueyouxs.com
 ads.recoletos.es
 ads.rediff.com
 ads.redlightcenter.com
@@ -1321,6 +1324,7 @@ adsco.re
 adscpm.com
 adsdaq.com
 adsdk.9imobi.com
+adsdk.vivo.com.cn
 adsdk.yandex.ru
 adse.ximalaya.com
 adsence.sogou.com
@@ -1863,6 +1867,8 @@ api.dsp.yhd.com
 api.e.mi.com
 api.eu.amplitude.com
 api.exc.mob.com
+api.fc.mob.com
+api.fd.mob.com
 api.flurry.com
 api.gi.igexin.com
 api.growingio.com
@@ -2533,6 +2539,7 @@ c.msn.com
 c.msn.com.cn
 c.ninebox.cn
 c.ns8d.com
+c.oqrwpru.cn
 c.originz.cn
 c.oumaite168.com.cn
 c.panqishu.com
@@ -2725,6 +2732,7 @@ cdnpixel-onead.cdn.hinet.net
 cdnstaging-onead.cdn.hinet.net
 cdntest.a8tiyu.com
 cds.51y5.net
+ce3e75d5.jpush.cn
 ceadx.agrantsem.com
 ced.sascdn.com
 cedato.com
@@ -3030,11 +3038,13 @@ conf.funshion.com
 conf.hpplay.cn
 conf.vidown.cn
 conf.xiniuz.com
+config-junion.jpush.cn
 config-ltvp.inmobi.com
 config.adview.cn
 config.baofeng.net
 config.cocounion.com
 config.inmobi.com
+config.jpush.cn
 config.kuyun.com
 config.mobisage.cn
 config.push.sogou.com
@@ -3634,6 +3644,7 @@ e.ejiur.com
 e.epanr.com
 e.fcunq.com
 e.feisia1.cn
+e.fengyx.com
 e.ffanq.com
 e.focuscat.com
 e.gcaog.com
@@ -3935,6 +3946,7 @@ fclick.baidu.com
 fd.anzhi.com
 fd.qchannel03.cn
 fd2.m.630book.la
+fd2.qchannel03.cn
 fds.api.moji.com
 fe-au.imrworldwide.com
 fe.lea.lycos.co.uk
@@ -4015,6 +4027,7 @@ fpb.docin.com
 fpb.sohu.com
 fpbb.aizhan.com
 fpbbdx1.51240.com
+fpbbdx1.bmcx.com
 fpctraffic.com
 fpctraffic2.com
 fpjs.io
@@ -4273,6 +4286,7 @@ gum.criteo.com
 gunggo.com
 gvod.aiseejapp.atianqi.com
 gw.flurry.com
+gw.innotechx.com
 gw5.push.mcp.weibo.cn
 gx38.cn
 gxb.mmstat.com
@@ -4417,6 +4431,7 @@ homepageking.de
 honeygoldfish.com
 honorablehall.com
 honorableland.com
+honpu1.dianqiweixiu.net
 hoplink.ksosoft.com
 hostedads.realitykings.com
 hot.m.shouji.360tpcdn.com
@@ -5273,6 +5288,7 @@ log.music.baidu.com
 log.orchidscape.net
 log.p2p.hunantv.com
 log.pinterest.com
+log.qchannel03.cn
 log.rc.hunantv.com
 log.sina.cn
 log.so.hunantv.com
@@ -5885,6 +5901,7 @@ mpb1.iteye.com
 mpb2.iteye.com
 mpe.ad4game.com
 mpp.vindicosuite.com
+mps.wenkuzu.com
 mpstat.us
 mpush.cn
 mqqad.cs0309.html5.qq.com
@@ -7404,6 +7421,7 @@ sdk.open.amp.igexin.com
 sdk.open.lbs.igexin.com
 sdk.open.phone.igexin.com
 sdk.open.talk.igexin.com
+sdk.push.mob.com
 sdkapp.mobile.sina.cn
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -8562,6 +8580,7 @@ truehits1.gits.net.th
 truehits2.gits.net.th
 trust.titanhq.com
 trustx.org
+tsis.jpush.cn
 tsuam.com
 tsyndicate.com
 tsyndicate.net
@@ -8634,7 +8653,6 @@ ubmcmm.baidustatic.com
 uc.agrantsem.com
 uc.whkwpzz.cn
 uc9.ucweb.com
-ucan.25pp.com
 ucfunnel.com
 ucus.ucweb.com
 udash.umengcloud.com
@@ -8778,6 +8796,7 @@ v.jumorecn.com.cn
 v.lelangegg.cn
 v.lovame.com.cn
 v.oq68.com
+v.oqrwpru.cn
 v.originz.cn
 v.oumaite168.com.cn
 v.pengmingx.cn
