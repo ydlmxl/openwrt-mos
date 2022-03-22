@@ -200,7 +200,6 @@
 930.dragonparking.com
 9566180.com
 9ibbcq2d.sina.cn
-9w2zed1szg.execute-api.us-east-1.amazonaws.com
 XiaoQiang
 a-ad.adwo.com
 a-ads.com
@@ -666,7 +665,6 @@ add.newmedia.cz
 addata.ku6.com
 addfreestats.com
 addme.com
-addwish.com
 ade.googlesyndication.com
 ade.tanx.com
 adeaz.com
@@ -2480,7 +2478,6 @@ broadboundary.com
 broadcastbed.com
 broaddoor.com
 broadstreetads.com
-brontops.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 bs.csshq.com.cn
@@ -2634,7 +2631,6 @@ cap.cyberlink.com
 cap.touclick.com
 capablecows.com
 captainbicycle.com
-capturehighered.net
 car.mobadme.jp
 carambo.la
 carbonads.com
@@ -2832,7 +2828,6 @@ claria.com
 clc.wanmancn.com
 clck.ru
 clenchedyouthmatching.com
-clerk.io
 clevernt.com
 cliand.com
 click.ad-stir.com
@@ -2951,7 +2946,6 @@ clksite.com
 clktrx.com
 cloisteredhydrant.com
 closedcows.com
-cloud-iq.com.au
 cloud.codenow.cn
 cloud.xdrig.com
 cloud.zyiis.net
@@ -3258,7 +3252,6 @@ cx.v5cam.com
 cxense.com
 cyad1.cyworld.com
 cyad1.nate.com
-cybba.solutions
 cyberbounty.com
 cyrasi.com
 cytron.videojj.com
@@ -3865,7 +3858,6 @@ enthusiasticdad.com
 entrecard.s3.amazonaws.com
 entry.baidu.com
 env.dreport.meituan.net
-enviou.com.br
 enviousthread.com
 eo.eLevenmedia.cn
 eo.eeo1h1.cn
@@ -4069,7 +4061,6 @@ foo.cosmocode.de
 foresee.com
 forex-affiliate.net
 forkcdn.com
-formstack.com
 forwrdnow.com
 fota4.adups.cn
 fourarithmetic.com
@@ -4641,7 +4632,6 @@ idm-su.baidu.com
 idm.bce.baidu.com
 ids1.deliver.ifeng.com
 idtargeting.com
-idx.lat
 ie8eamus.com
 ientrymail.com
 ieonline.microsoft.com
@@ -5640,7 +5630,6 @@ madclient.uimserv.net
 madcpms.com
 madinad.com
 madisonavenue.com
-madkudu.com
 mads.advertising.com
 mads.amazon-adsystem.com
 madvertise.de
@@ -5696,7 +5685,6 @@ marketo.com
 mas.sector.sk
 masdk.3g.qq.com
 massivemark.com
-masterworks.com
 match.ads.betweendigital.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
@@ -6541,7 +6529,6 @@ pgmediaserve.com
 pgpartner.com
 ph.qucaigg.com
 pheedo.com
-phenompeople.com
 phoenix-adrunner.mycomputer.com
 photo.boweineng.cn
 photo.ccjxybj.cn
@@ -6653,7 +6640,6 @@ pmptrack-autohome.gentags.net
 pmptrack-letv.gentags.net
 pmptrack-yidianzixunxm.gentags.net
 pmptrack-youku.gentags.net
-pmweb.com.br
 png.lu.sogoucdn.com
 pocketmath.com
 pointroll.com
@@ -7682,7 +7668,6 @@ shinystat.com
 shinystat.it
 shockinggrass.com
 shoppingads.com
-shoptarget.com.br
 show-3.mediav.com
 show-f.mediav.com
 show-g.mediav.com
@@ -9249,7 +9234,6 @@ wickedreports.com
 widespace.com
 widget.criteo.com
 widget.privy.com
-widgetbe.com
 widgetbucks.com
 widnd.dajiadou6.com
 wifishow.ggsafe.com
@@ -9976,7 +9960,6 @@ zdw.w8.com.cn
 zealousfield.com
 zedo.com
 zemanta.com
-zenaps.com
 zencudo.co.uk
 zenkreka.com
 zenzuu.com
