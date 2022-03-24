@@ -2602,6 +2602,7 @@ c2.58toto.net
 c2.l.qq.com
 c2.popads.net
 c2.statcounter.com
+c212.net
 c3.gostats.cn
 c3.moogos.com
 c41.clicki.cn
