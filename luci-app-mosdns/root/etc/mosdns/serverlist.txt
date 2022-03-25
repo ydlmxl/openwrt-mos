@@ -89,6 +89,7 @@
 3gmimo.com
 3lift.com
 3m.mediav.com
+3o9s.short.gy
 3rd.t.sohu.com
 4.up.qingdaonews.com
 4009997658.com
@@ -2626,7 +2627,6 @@ callrail.com
 calmcactus.com
 campaign.bharatmatrimony.com
 caniamedia.com
-cannads.urgrafix.com
 canvas.gdt.qq.com
 cap.cyberlink.com
 cap.touclick.com
@@ -2858,7 +2858,6 @@ click.lergao.com
 click.linktech.cn
 click.mediav.com
 click.mz.simba.taobao.com
-click.negociosdigitaisnapratica.com.br
 click.qianqian.com
 click.redditmail.com
 click.stat.hao.360.cn
@@ -2944,7 +2943,6 @@ clkservice.union.youdao.com
 clkservice.youdao.com
 clkservice2.dict.youdao.com
 clksite.com
-clktrx.com
 cloisteredhydrant.com
 closedcows.com
 cloud.codenow.cn
@@ -6105,6 +6103,7 @@ netagent.cz
 netclickstats.com
 netcommunities.com
 netdirect.nl
+netech.postaffiliatepro.com
 netincap.com
 netmera-web.com
 netmera.com
@@ -6449,7 +6448,6 @@ paradoxfactor.com
 parallelsdesktop.cn
 parchedangle.com
 parchedsofa.com
-parketsy.pro
 parking.bodiscdn.com
 parsely.com
 parser.houyi.baofeng.net
@@ -6993,6 +6991,7 @@ readingguilt.com
 readingopera.com
 readserver.net
 readymoon.com
+realcastmedia.com
 realclever.com
 realclix.com
 realmedia-a800.d4p.net
@@ -7663,7 +7662,6 @@ sharppatch.com
 shence.cread.com
 shence.hupu.com
 sher.index.hu
-shermore.info
 shili.wanyx.com
 shinystat.com
 shinystat.it
@@ -7961,7 +7959,6 @@ stat.zenon.net
 stat.zol.com.cn
 stat.zuimeitianqi.com
 stat24.com
-stat24.meta.ua
 statcounter.com
 statdynamic.com
 static-interactive-api.nend.net
@@ -9608,7 +9605,6 @@ www.optaim.com
 www.optimix.cn
 www.pagechoice.net
 www.pdfexpert.cc
-www.photo-ads.co.uk
 www.pikacn.com
 www.pintour.com
 www.pj5189.com
