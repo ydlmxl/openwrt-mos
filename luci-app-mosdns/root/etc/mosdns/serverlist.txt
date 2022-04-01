@@ -1807,7 +1807,6 @@ analytics.youmi.net
 analytics3.dopool.com
 analytics3.starschina.com
 analyticsapi.happypancake.net
-analytik.xyz
 ancientact.com
 andmlbf.tj.ijinshan.com
 android.bugly.qq.com
@@ -5119,7 +5118,6 @@ katie.v4.byetnc.com
 kd.api.agrantsem.com
 kdl.huaxinsp.cn
 kejet.com
-kesmatic.com
 keydot.net
 keymedia.hu
 keyrun.cn
@@ -7485,7 +7483,6 @@ screechingstove.com
 screenshot.ninebox.cn
 script-bd.baixing.net
 script.crazyegg.com
-scripte-monster.de
 scrubswim.com
 scs.openspeech.cn
 sd.domob.cn
@@ -7804,7 +7801,6 @@ sp3.cndm.com
 spacash.com
 spaceleadster.com
 spad.i-mobile.co.jp
-spannersalesman.com
 spap.adingo.jp
 spap.adingo.jp.eimg.jp
 spapi.i-mobile.co.jp
@@ -7962,6 +7958,7 @@ stat.zenon.net
 stat.zol.com.cn
 stat.zuimeitianqi.com
 stat24.com
+stat24.meta.ua
 statcounter.com
 statdynamic.com
 static-interactive-api.nend.net
@@ -8533,7 +8530,6 @@ track.ra.icast.cn
 track.recreativ.ru
 track.segmetrics.io
 track.sitetag.us
-track.software-codes.com
 track.sohu.com
 track.tenjin.com
 track.themaccleanup.info
@@ -9608,6 +9604,7 @@ www.optaim.com
 www.optimix.cn
 www.pagechoice.net
 www.pdfexpert.cc
+www.photo-ads.co.uk
 www.pikacn.com
 www.pintour.com
 www.pj5189.com
