@@ -1265,7 +1265,6 @@ ads.yldmgrimg.net
 ads.yourfreedvds.com
 ads.youtube.com
 ads.yumenetworks.com
-ads.zmarsa.com
 ads1-adnow.com
 ads1.mediacapital.pt
 ads1.msads.net
@@ -4093,6 +4092,7 @@ freeonlineusers.com
 freepay.com
 freeskreen.com
 freestats.com
+freestats.tv
 freewebcounter.com
 freewheel.com
 freewheel.tv
@@ -5114,10 +5114,10 @@ kameleoon.eu
 kanoodle.com
 kargo.com
 karonty.com
-katie.v4.byetnc.com
 kd.api.agrantsem.com
 kdl.huaxinsp.cn
 kejet.com
+kesmatic.com
 keydot.net
 keymedia.hu
 keyrun.cn
@@ -6076,7 +6076,6 @@ nastydollars.com
 native.propellerads.com
 nativeads.cacafly.com
 nativeroll.tv
-naturalbid.com
 navegg.com
 navigator.io
 navrcholu.cz
@@ -6296,7 +6295,6 @@ openrcv.baidu.com
 openstat.net
 openstorage.ad.cmvideo.cn
 opentag-stats.qubit.com
-openx.actvtech.com
 openx.angelsgroup.org.uk
 openx.cairo360.com
 openx.kgmedia.eu
@@ -7327,7 +7325,6 @@ s28.cnzz.com
 s29.cnzz.com
 s2d6.com
 s2s.adjust.com
-s2strk.info
 s3.aishangcan.com
 s3.buysellads.com
 s3.cnzz.com
