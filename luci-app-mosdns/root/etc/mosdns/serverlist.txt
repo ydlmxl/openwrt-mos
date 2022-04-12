@@ -3936,6 +3936,7 @@ exp.3g.ifeng.com
 experianmarketingservices.digital
 experiment.appadhoc.com
 explorads.com
+expmediadirect1.com
 exponea.com
 exponential.com
 express-submit.de
@@ -4317,6 +4318,7 @@ groundtruth.com
 growingio.com
 growth-support.applovin.com
 growth-tracking.adroll.com
+grychiphidu.com
 gscontxt.net
 gslb.hpplay.cn
 gstat.bitauto.com
@@ -8499,6 +8501,7 @@ trace.rtbasia.com
 trace.ynet.com
 tracelog-debug.aiclk.com
 track-help.admaster.com.cn
+track-tracingkit394853.com
 track.58.com
 track.ad4game.com
 track.adform.net
