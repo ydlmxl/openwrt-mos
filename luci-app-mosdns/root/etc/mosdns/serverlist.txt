@@ -1822,6 +1822,7 @@ anrdoezrs.net
 anstrex.com
 anuncios.edicaoms.com.br
 anxiousapples.com
+aod-image-material.cdn.bcebos.com
 aos-creative.prf.hn
 aos.prf.hn
 ap.ksrong.com
@@ -2043,6 +2044,7 @@ as2.adserverhd.com
 asap.ad7.com
 asd.sincetrade.com
 asd.zuhaowan8.com
+asdkfjskl.guiliangtechnology.com
 asearch.alicdn.com
 aserv.motorsgate.com
 asewlfjqwlflkew.com
@@ -3606,6 +3608,7 @@ ds.serving-sys.com
 ds10.api.baifendian.com
 dsjsee.dqgpb.com
 dsp-click.youdao.com
+dsp-idea.cdn.bcebos.com
 dsp-impr.youdao.com
 dsp-impr2.youdao.com
 dsp-lb.mediav.com
@@ -3766,6 +3769,7 @@ edge.quantserve.com
 edge.sharethis.com
 ediuschina.com
 edp2.adriver.ru
+edu-ad-test-cdn.cdn.bcebos.com
 educationdynamics.com
 ee.0pi84.cn
 ee.1s8pj.cn
@@ -4318,6 +4322,7 @@ growth-tracking.adroll.com
 grychiphidu.com
 gscontxt.net
 gslb.hpplay.cn
+gsp0.baidu.com
 gstat.bitauto.com
 gstaticx.com
 gtop100.com
@@ -5390,6 +5395,7 @@ lp.startapp.com
 lp3tdqle.com
 lp7n.cy6px.com
 ls.l.qq.com
+lsdkjfkdlsf.ydtykj.net
 lskwsx.m.zwdu.com
 lt.bloggerads.net
 lu.sogou.com
@@ -5904,6 +5910,7 @@ mob29.shqcbus.com
 mobaders.oss-cn-beijing.aliyuncs.com
 mobadme.jp
 mobads-logs.baidu.com
+mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobaliyun.res.mgtv.com
 mobappconfig.securities.eastmoney.com
@@ -6630,6 +6637,7 @@ plugrush.com
 pmh.souid.com
 pmir.3g.qq.com
 pmm.people.com.cn
+pmp-ad.cdn.bcebos.com
 pmp.adinall.com
 pmptrack-autohome.gentags.net
 pmptrack-letv.gentags.net
@@ -8678,6 +8686,7 @@ truehits1.gits.net.th
 truehits2.gits.net.th
 trust.titanhq.com
 trustx.org
+tsdflsdk.cypcb.net
 tsis.jpush.cn
 tsuam.com
 tsyndicate.com
