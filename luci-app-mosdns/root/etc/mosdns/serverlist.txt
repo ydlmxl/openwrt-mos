@@ -1259,7 +1259,6 @@ ads.yam.com
 ads.yap.yahoo.com
 ads.yimg.com
 ads.yldmgrimg.net
-ads.yourfreedvds.com
 ads.youtube.com
 ads.yumenetworks.com
 ads1-adnow.com
@@ -3098,7 +3097,6 @@ conversion.adpro.cn
 conversion.pro.cn
 conversionbet.com
 conversionruler.com
-convertbox.com
 convertingtraffic.com
 convrse.media
 coocaa.admaster.com.cn
@@ -4084,7 +4082,6 @@ frame.enet.com.cn
 franklybundlecarver.com
 free-banners.com
 free-counter.co.uk
-free-counters.co.uk
 free.aol.com
 freebanner.com
 freecodecs.us.intellitxt.com
@@ -4433,7 +4430,6 @@ hippo.vlion.cn
 histats.com
 historicalrequest.com
 hit-parade.com
-hit.bg
 hit.ua
 hit.webcentre.lycos.co.uk
 hitbox.com
@@ -7662,6 +7658,7 @@ sharppatch.com
 shence.cread.com
 shence.hupu.com
 sher.index.hu
+shermore.info
 shili.wanyx.com
 shinystat.com
 shinystat.it
@@ -8284,6 +8281,7 @@ takru.com
 talentedsteel.com
 talk.nz.igexin.com
 tamgrt.com
+tangerinenet.biz
 tangibleteam.com
 tao.37wan.com
 taou.cn
@@ -9243,7 +9241,6 @@ window.nixnet.cz
 winlinebet.ru
 wintricksbanner.googlepages.com
 wirecomic.com
-wirelesseuropebalmy.com
 wisepops.com
 wisepush.video.baidu.com
 witch-counter.de
