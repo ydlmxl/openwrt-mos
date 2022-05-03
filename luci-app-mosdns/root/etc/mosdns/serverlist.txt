@@ -5797,6 +5797,7 @@ methodcash.com
 metrics-exit-ios.dreport.meituan.net
 metrics-logger.spot.im
 metrics.api.drift.com
+metrics.articulate.com
 metrics.cnn.com
 metrics.consumerreports.org
 metrics.ctv.ca
