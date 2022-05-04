@@ -3818,6 +3818,7 @@ em1.yoursantander.co.uk
 email-clk.adguard.com
 email-opn.adguard.com
 email.m1.bktrksmail.com
+emaillinks.soundiiz.com
 emanog.com
 emarbox.com
 emdcadvertise.eastmoney.com
@@ -4861,6 +4862,7 @@ interaction.bayimob.com
 interaction1.bayimob.com
 interactive.forthnet.gr
 interactive.huanqiu.com
+intercom-clicks.com
 interest.mix.sina.com.cn
 intergi.com
 internetfuel.com
