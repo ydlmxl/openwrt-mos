@@ -8208,6 +8208,7 @@ t.appsflyer.com
 t.atpanel.com
 t.bawafx.com
 t.channeladvisor.com
+t.co
 t.cr-nielsen.com
 t.cyuew.com
 t.d.yoyi.tv
