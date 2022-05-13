@@ -963,7 +963,6 @@ ads.cybersales.cz
 ads.dada.it
 ads.dailycamera.com
 ads.data.pplive.com
-ads.datingyes.com
 ads.delfin.bg
 ads.deltha.hu
 ads.dennisnet.co.uk
@@ -4081,7 +4080,6 @@ fptest.fraudmetrix.cn
 fqtag.com
 frailoffer.com
 frame.enet.com.cn
-franklybundlecarver.com
 free-banners.com
 free-counter.co.uk
 free.aol.com
@@ -4520,7 +4518,6 @@ hubadnetwork.com
 hueads.com
 hueadsortb.com
 hueadsxml.com
-huezzcjskf.site
 huichuan.sm.cn
 huid.ad.360.cn
 huishenghuiying.com
@@ -9061,7 +9058,6 @@ voila.refr.adgtw.orangeads.fr
 voluum.com
 voluumtrk2.com
 volvelle.tech
-voodoo-ads.io
 voq3450129.y4j32.cn
 vortex-win-sandbox.data.microsoft.com
 vpgf.qianyilamian.cn
