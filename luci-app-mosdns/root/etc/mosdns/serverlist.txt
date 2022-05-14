@@ -4321,7 +4321,6 @@ gslb.hpplay.cn
 gsp0.baidu.com
 gstat.bitauto.com
 gstaticx.com
-gtop100.com
 guardedschool.com
 guce.advertising.com
 guess.tf.360.cn
