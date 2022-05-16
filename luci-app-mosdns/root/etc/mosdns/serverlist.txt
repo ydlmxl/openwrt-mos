@@ -2839,6 +2839,7 @@ click.cartsguru.io
 click.cheshi.com
 click.cision.com
 click.dangdang.com
+click.e.progressive.com
 click.em.blizzard.com
 click.email.bbc.com
 click.email.sonos.com
