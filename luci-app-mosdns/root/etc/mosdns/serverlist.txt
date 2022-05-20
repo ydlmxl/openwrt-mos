@@ -3015,7 +3015,6 @@ cnf.adbana.com
 cnm.xlcktv.com
 cnn.dyn.cnn.com
 cnomy.com
-cnt.spbland.ru
 cnt1.pocitadlo.cz
 cntrack.madserving.com
 cntv.wrating.com
@@ -3823,7 +3822,6 @@ emaillinks.soundiiz.com
 emanog.com
 emarbox.com
 emdcadvertise.eastmoney.com
-emebo.com
 emebo.io
 emerse.com
 emetriq.de
@@ -4371,6 +4369,7 @@ h5.taihao.cc
 h78xb.pw
 h8.bec.com
 habitualhumor.com
+hadskiz.com
 haitaoad.nosdn.127.net
 haiwai-ic.ksosoft.com
 haltingbadge.com
@@ -7007,7 +7006,6 @@ receptivereaction.com
 recoco.it
 recommend.union.39.net
 reconditerake.com
-record.affiliates.karjalakasino.com
 record.bonniergaming.com
 record.mrwin.com
 recreativ.ru
@@ -7082,6 +7080,7 @@ revive.outin.cn
 revive.plays.bg
 revlift.io
 revprotect.com
+revsci.net
 revstats.com
 reyden-x.com
 reykijnoac.com
@@ -8090,7 +8089,6 @@ straightnest.com
 strategy.beacon.qq.com
 stream.shuzilm.cn
 stream.snssdk.com
-stream.useriq.com
 streamsb.net
 strip.alicdn.com
 strip.taobaocdn.com
