@@ -333,10 +333,8 @@ ablink.comms.trainline.com
 ablink.news.emails-puregym.com
 ablinks.mail.hinge.co
 aboardlevel.com
-aboutads.gr
 abruptroad.com
 absentstream.com
-absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
@@ -1177,7 +1175,6 @@ ads.sexgratuit.tv
 ads.shizmoo.com
 ads.shopstyle.com
 ads.sift.co.uk
-ads.silverdisc.co.uk
 ads.simplyhired.com
 ads.sjon.info
 ads.smartclick.com
@@ -3015,6 +3012,7 @@ cnf.adbana.com
 cnm.xlcktv.com
 cnn.dyn.cnn.com
 cnomy.com
+cnt.spbland.ru
 cnt1.pocitadlo.cz
 cntrack.madserving.com
 cntv.wrating.com
@@ -8543,7 +8541,6 @@ trackedweb.net
 tracker-pm2.spilleren.com
 tracker.appadhoc.com
 tracker.bannerflow.com
-tracker.bongngo.bar
 tracker.cdnbye.com
 tracker.comunidadmarriott.com
 tracker.icerocket.com
