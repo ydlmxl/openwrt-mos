@@ -117,7 +117,6 @@
 58lm.vip
 5aac971e.qivsod.com
 5ad.leadboltads.net
-5ijo.01net.com
 5mcwl.pw
 5y9nfpes.52pk.com
 5yrra.deshuangwang.cn
@@ -2208,7 +2207,6 @@ bannerconnect.com
 bannerconnect.net
 bannergrabber.internet.gr
 bannerimage.com
-bannerlandia.com.ar
 bannermall.com
 bannermanager.bnr.bg
 bannermarkt.nl
@@ -2823,7 +2821,6 @@ clc.wanmancn.com
 clck.ru
 clenchedyouthmatching.com
 clevernt.com
-cliand.com
 click.ad-stir.com
 click.admaster.com.cn
 click.adperium.com
@@ -3245,7 +3242,6 @@ cxense.com
 cyad1.cyworld.com
 cyad1.nate.com
 cyberbounty.com
-cyrasi.com
 cytron.videojj.com
 cytroncdn.videojj.com
 cz.ifeng0.com
@@ -3425,7 +3421,6 @@ demandbase.com
 demdex.net
 demo.adsame.com
 demo.jointreport-switch.com
-denety.com
 deployads.com
 desertedbreath.com
 desertedrat.com
@@ -3578,7 +3573,6 @@ dp.im.weibo.cn
 dp3.play.t002.ottcn.com
 dp3.qq.com
 dpbolvw.net
-dpgawov.com
 dpm.demdex.net
 dps.shouji56.com
 dpu.samsungelectronics.com
@@ -3729,7 +3723,6 @@ e1.feather.ifeng.com
 e335udnv6drg78b7.com
 e37364.dscd.akamaiedge.net
 eadexchange.com
-eaesie.com
 eagleasp.adsame.com
 eap.enorth.com.cn
 earthquakescarf.com
@@ -3817,7 +3810,6 @@ email-clk.adguard.com
 email-opn.adguard.com
 email.m1.bktrksmail.com
 emaillinks.soundiiz.com
-emanog.com
 emarbox.com
 emdcadvertise.eastmoney.com
 emebo.io
@@ -3878,7 +3870,6 @@ et.w.inmobi.com
 etahub.com
 etargetnet.com
 ether-pack.pangolin-sdk-toutiao.com
-etioh.com
 etl-xlmc-ssl.sandai.net
 etl-xlmc-ssl.xunlei.com
 etl.xlmc.sandai.net
@@ -3916,7 +3907,6 @@ ex.mobmore.com
 ex.puata.info
 ex.tanx.com
 ex.umengcloud.com
-exanae.com
 exchange-it.com
 exchangead.com
 exchangeclicksonline.com
@@ -4052,7 +4042,6 @@ fly-analytics.com
 fm.ipinyou.com
 fm.p0y.cn
 fms.ipinyou.com
-folawn.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -4431,7 +4420,6 @@ hit.ua
 hit.webcentre.lycos.co.uk
 hitbox.com
 hitcounters.miarroba.com
-hitfarm.com
 hitlist.ru
 hitlog2.chosun.com
 hitlounge.com
@@ -4639,7 +4627,6 @@ iframes.awempire.com
 ifs.tanx.com
 ifsk2.tanx.com
 ifv.ninebox.cn
-ihogaetw.com
 iis1.deliver.ifeng.com
 iis3g.deliver.ifeng.com
 ijeu.pdkzyy.cn
@@ -4677,7 +4664,6 @@ images1.1133.cc
 imarketservices.com
 imc.l.qq.com
 imdns.hpplay.cn
-imembe.com
 img-ad.oupeng.com
 img-cdn-spot.ymcdn.cn
 img-dsp.oss-cn-beijing.aliyuncs.com
@@ -5699,7 +5685,6 @@ matomo.activate.cz
 matomo.crossiety.app
 matomo.gals24.ru
 matomo.hdweb.ru
-matomo.zwetok.ru
 matthewsery.com
 matwbp.iask.sina.com.cn
 mautic.com
@@ -6151,7 +6136,6 @@ ngads.go.com
 nhpfvdlbjg.com
 nhz.adwo.com
 ninemsn.imrworldwide.com
-nitratory.com
 nitroclicks.com
 nlog.baidu.com
 noble55.com
@@ -6252,9 +6236,7 @@ onaudience.com
 onclasrv.com
 onclickads.net
 onclkds.com
-onctus.com
 oneandonlynetwork.com
-onenag.com
 onenetworkdirect.com
 onestat.com
 onestatfree.com
@@ -6456,7 +6438,6 @@ pass1.soogif.com
 pass2.soogif.com
 passeura.com
 patriot.cs.pp.cn
-paxtro.com
 pay.holaq.com
 paychat.fuse-cloud.com
 paycounter.com
@@ -6607,7 +6588,6 @@ pkg.toponad.com
 pl108258.puserving.com
 pl14369502.puserving.com
 placed.com
-plardi.com
 plat.videojj.com
 plausibleio.workers.dev
 play-vids.com
@@ -6619,7 +6599,6 @@ playinfo.gomlab.com
 pleasantpump.com
 plista.com
 plotrabbit.com
-ployea.com
 plt.data.pplive.com
 pltraffic8.com
 pluckypocket.com
@@ -6738,7 +6717,6 @@ provexia.com
 prpops.com
 prsaln.com
 prsitecheck.com
-prudencewiserelapse.com
 ps.dlads.cn
 psfq.gou.sogou.com
 psma02.com
@@ -6763,7 +6741,6 @@ publish-pic-cpu.baidu.com
 pubmatic.com
 pubmine.com
 pubnative.net
-pubwes.com
 puds.test.uae.uc.cn
 puds.ucweb.com
 puffyloss.com
@@ -7562,7 +7539,6 @@ segment-cdn.producthunt.com
 selectivesummer.com
 semasio.net
 sendmepixel.com
-sensismediasmart.com.au
 sensorsdata.ruguoapp.com
 seordl.cn
 separatesilver.com
@@ -7727,7 +7703,6 @@ slipperysack.com
 slog.sina.cn
 slog.sina.com.cn
 slopeaota.com
-sluxur.com
 slzs.52xiyou.com
 sm.domob.cn
 sm.domobcdn.com
@@ -7813,7 +7788,6 @@ specificmedia.co.uk
 specificpop.com
 speedomizer.com
 speedshiftmedia.com
-speop.com
 spezialreporte.de
 spidersboats.com
 spiffymachine.com
@@ -8127,7 +8101,6 @@ supertop100.com
 supertracking.net
 supply.colossusssp.com
 surfmusik-adserver.de
-suried.com
 survey.admaster.com.cn
 survey.watson.microsoft.com
 surveygizmobeacon.s3.amazonaws.com
@@ -8607,7 +8580,6 @@ trackmysales.com
 trackuhub.com
 tradeadexchange.com
 tradedoubler.com
-trading-rtbg.com
 traffic-exchange.com
 traffic-redirecting.com
 traffic.ad4game.com
@@ -8680,7 +8652,6 @@ trustpid.com
 trustx.org
 tsdflsdk.cypcb.net
 tsis.jpush.cn
-tsuam.com
 tsyndicate.com
 tsyndicate.net
 tt.agrantsem.com
@@ -8830,7 +8801,6 @@ upgrade.mishop.pandora.xiaomi.com
 upoll.umengcloud.com
 ups.ksmobile.net
 upu.samsungelectronics.com
-uramog.com
 urchin.5173.com
 urd103.analysys.cn
 urd345.analysys.cn
@@ -8865,7 +8835,6 @@ usingirritatecordial.com
 usuf.candukang.cn
 ut.gtags.net
 ut2.shuqistat.com
-utenod.com
 util.nphoto.net
 utils.mediageneral.net
 utl-1.com
@@ -9884,7 +9853,6 @@ ymjs.adutp.com
 ymurase.ad.dev.nend.net
 ynwqls.com
 yoggrt.com
-yogyn.com
 youku-dtv.m.cn.miaozhen.com
 youle.tom.com
 youmi.net
