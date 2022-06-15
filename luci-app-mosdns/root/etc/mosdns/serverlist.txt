@@ -8178,6 +8178,7 @@ t.alimama.com
 t.appsflyer.com
 t.atpanel.com
 t.bawafx.com
+t.carta.com
 t.channeladvisor.com
 t.co
 t.cr-nielsen.com
