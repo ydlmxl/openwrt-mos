@@ -2790,6 +2790,7 @@ chemdraw.com.cn
 cherriescare.com
 chewcoat.com
 chickensstation.com
+childlikecrowd.com
 chinsnakes.com
 chitika.net
 choice.microsoft.com.nsatc.net
@@ -3757,6 +3758,7 @@ ecpm.tanx.com
 edaa.eu
 edge.quantserve.com
 edge.sharethis.com
+edgexads.com
 ediuschina.com
 edp2.adriver.ru
 edu-ad-test-cdn.cdn.bcebos.com
@@ -3809,6 +3811,7 @@ elitetoplist.com
 em.baidu.com
 em1.yoursantander.co.uk
 email-clk.adguard.com
+email-links.crowdfireapp.com
 email-opn.adguard.com
 email.m1.bktrksmail.com
 emaillinks.soundiiz.com
