@@ -2208,6 +2208,7 @@ bannerconnect.com
 bannerconnect.net
 bannergrabber.internet.gr
 bannerimage.com
+bannerlandia.com.ar
 bannermall.com
 bannermanager.bnr.bg
 bannermarkt.nl
@@ -2641,7 +2642,6 @@ cashengines.com
 cashfiesta.com
 cashpartner.com
 cashstaging.me
-casinopays.com
 casinorewards.com
 casinotraffic.com
 cast-bid27-j.adtdp.com
@@ -3576,6 +3576,7 @@ dp.im.weibo.cn
 dp3.play.t002.ottcn.com
 dp3.qq.com
 dpbolvw.net
+dpgawov.com
 dpm.demdex.net
 dps.shouji56.com
 dpu.samsungelectronics.com
@@ -4160,7 +4161,6 @@ g3.iqilu.com
 g3.letv.com
 g4.iqilu.com
 ga.clearbit.com
-ga87z2o.com
 gaandroid.talkingdata.net
 gadsbee.com
 gafxa.code.mytanwan.com
@@ -4633,6 +4633,7 @@ iframes.awempire.com
 ifs.tanx.com
 ifsk2.tanx.com
 ifv.ninebox.cn
+ihogaetw.com
 iis1.deliver.ifeng.com
 iis3g.deliver.ifeng.com
 ijeu.pdkzyy.cn
@@ -6280,7 +6281,6 @@ openadsnetwork.com
 openrcv.baidu.com
 openstat.net
 openstorage.ad.cmvideo.cn
-opentag-stats.qubit.com
 openx.angelsgroup.org.uk
 openx.cairo360.com
 openx.kgmedia.eu
@@ -8551,7 +8551,6 @@ tracking.cat898.com
 tracking.emilyclarkconsulting.com
 tracking.epicgames.com
 tracking.exipure.com
-tracking.gajmp.com
 tracking.hyros.com
 tracking.ibxlink.com
 tracking.internetstores.de
