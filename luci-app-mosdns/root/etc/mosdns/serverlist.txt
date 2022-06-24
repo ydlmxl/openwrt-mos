@@ -509,7 +509,6 @@ ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
 ad.obuy.tw
-ad.pandora.tv
 ad.pchome.com.tw
 ad.period-calendar.com
 ad.pixnet.net
@@ -888,7 +887,6 @@ ads.aceweb.net
 ads.acpc.cat
 ads.acrosspf.com
 ads.activestate.com
-ads.ad-center.com
 ads.ad4game.com
 ads.adaptv.advertising.com
 ads.adfox.ru
@@ -1197,7 +1195,6 @@ ads.tiktok.com
 ads.tmcs.net
 ads.todoti.com.br
 ads.toplayaffiliates.com
-ads.totallyfreestuff.com
 ads.townhall.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -2642,6 +2639,7 @@ cashengines.com
 cashfiesta.com
 cashpartner.com
 cashstaging.me
+casinopays.com
 casinorewards.com
 casinotraffic.com
 cast-bid27-j.adtdp.com
@@ -8840,7 +8838,6 @@ usercollection.chinadaily.com.cn
 userreplay.com
 userreplay.net
 users.maxcluster.net
-usingirritatecordial.com
 usuf.candukang.cn
 ut.gtags.net
 ut2.shuqistat.com
