@@ -2832,6 +2832,7 @@ click.bpc.ad-stir.com
 click.cartsguru.io
 click.cheshi.com
 click.cision.com
+click.classmates.com
 click.dangdang.com
 click.e.progressive.com
 click.em.blizzard.com
@@ -8177,6 +8178,7 @@ t.adyun.com
 t.agrantsem.com
 t.alimama.com
 t.appsflyer.com
+t.armchairbookie.com
 t.atpanel.com
 t.bawafx.com
 t.carta.com
@@ -8187,6 +8189,7 @@ t.cyuew.com
 t.d.yoyi.tv
 t.dsp.mediav.com
 t.eloqua.com
+t.email.superdrug.com
 t.en25.com
 t.firstpromoter.com
 t.gdt.qq.com
@@ -8202,6 +8205,7 @@ t.ksrong.com
 t.l.qq.com
 t.leady.com
 t.news.browns-restaurants.co.uk
+t.notif-colissimo-laposte.info
 t.pzclw.cn
 t.qiuqiuqipai.com
 t.quandangdang.net
@@ -8492,6 +8496,7 @@ track.flexlinks.com
 track.flexlinkspro.com
 track.freemmo2017.com
 track.game18click.com
+track.homejobs.careers
 track.hot-mob.com
 track.hujiang.com
 track.lettingaproperty.com
@@ -8500,6 +8505,7 @@ track.mailalert.io
 track.mailerlite.com
 track.mediav.com
 track.miro.com
+track.nationalgunrights.org
 track.ra.icast.cn
 track.recreativ.ru
 track.segmetrics.io
@@ -8644,10 +8650,12 @@ trk.hot-mob.com
 trk.pinterest.com
 trk.taboola.com
 trk.techtarget.com
+trk.us-learn-teacher-poetry.xyz
 trk42.net
 trkn.us
 trknths.com
 trkoptimizer.com
+trkpnt.ongage.net
 trmit.com
 truckstomatoes.com
 truehits.net
@@ -9083,6 +9091,7 @@ wa.gtimg.com
 wa.kuwo.cn
 waardex.com
 wake.chinaerman.com
+walkets.click
 wall.static.youmi.net
 wallet.advcash.com
 wan.2345.com
