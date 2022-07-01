@@ -334,6 +334,7 @@ ablinks.mail.hinge.co
 aboardlevel.com
 abruptroad.com
 absentstream.com
+absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
@@ -1093,7 +1094,6 @@ ads.mmania.com
 ads.mobilebet.com
 ads.mobilityware.com
 ads.mopub.com
-ads.motor-forum.nl
 ads.mp.mydas.mobi
 ads.msn.com
 ads.multimania.lycos.fr
@@ -1513,7 +1513,6 @@ adultadvertising.com
 adunion.wifi8.com
 aduu.cn
 adv-adserver.com
-adv-banner.libero.it
 adv-ettoday.cdn.hinet.net
 adv.aiclk.com
 adv.app.qq.com
@@ -2438,7 +2437,6 @@ bolt.jebe.renren.com
 bongacash.com
 boomads.com
 boomtrain.com
-boost-my-pr.de
 boredcrown.com
 boringcoat.com
 borsendental.com
@@ -4415,7 +4413,6 @@ hidden-master.linezing.com
 highfalutinroom.com
 hightrafficads.com
 hilariouszinc.com
-hilltopads.net
 hipersushiads.com
 hippo.vlion.cn
 histats.com
@@ -4554,7 +4551,6 @@ hzvs1.cnzz.com
 hzyd.cdn.bcebos.com
 hzyuw.com
 i-ad.adwo.com
-i-clicks.net
 i-i.lt
 i-mobile.co.jp
 i.adeaz.com
@@ -5206,7 +5202,6 @@ lettucelimit.com
 letv.axp.admaster.com.cn
 letv.irs01.com
 letv.m.cn.miaozhen.com
-levelrate.de
 lever-analytics.com
 lfeeder.com
 lfstmedia.com
@@ -6555,7 +6550,6 @@ pietexture.com
 pilot-ad.flurry.com
 pilot-api.flurry.com
 pilot-data.flurry.com
-pilotaffiliate.com
 pimg1.126.net
 pimproll.com
 pin.hpplay.cn
@@ -8948,7 +8942,6 @@ valueclick.com
 valueclickmedia.com
 valuecommerce.com
 vanfireworks.com
-variablefitness.com
 vas-hl-x.snssdk.com
 vasapi.rdtuijian.com
 vatrack.hinet.net
