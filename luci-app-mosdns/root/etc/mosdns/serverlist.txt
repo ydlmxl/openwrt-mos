@@ -2832,6 +2832,7 @@ click.cheshi.com
 click.cision.com
 click.classmates.com
 click.dangdang.com
+click.digital.metaquestmail.com
 click.e.progressive.com
 click.em.blizzard.com
 click.email.bbc.com
@@ -6717,7 +6718,6 @@ protraffic.com
 provenpixel.com
 provexia.com
 prpops.com
-prsaln.com
 prsitecheck.com
 ps.dlads.cn
 psfq.gou.sogou.com
@@ -9918,7 +9918,6 @@ zangocash.com
 zanox-affiliate.de
 zanox.com
 zantracker.com
-zarget.com
 zbwp6ghm.com
 zbz.m.qxs.la
 zdbb.net
