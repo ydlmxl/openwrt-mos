@@ -1271,7 +1271,6 @@ ads2.hsoub.com
 ads2.msads.net
 ads2.msn.com
 ads2.net-communities.co.uk
-ads2.oneplace.com
 ads2.opensubtitles.org
 ads2.rne.com
 ads2.techads.info
@@ -2945,7 +2944,6 @@ cloudcdn.dopa.com.cn
 cloudcdn.yousee.com
 cloudcoins.biz
 cloudconf.fengkongcloud.com
-cloudflare-dacdn.visualwebsiteoptimizer.com
 cloudflareinsights.com
 cloudiq.com
 cloudservice12.kingsoft-office-service.com
@@ -4820,7 +4818,6 @@ innocentwax.com
 innovid.com
 inquisitiveinvention.com
 inrhyhorntor.com
-inringtone.com
 insgly.net
 inside.bitcomet.com
 insightexpress.com
@@ -5166,6 +5163,7 @@ l.ujian.cc
 l.yidianzixun.com
 l1.britannica.com
 l2.l.qq.com
+l6b587txj1.com
 l6urqh27.sina.cn
 labs.ra.icast.cn
 lakequincy.com
