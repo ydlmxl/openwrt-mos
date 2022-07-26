@@ -2846,6 +2846,7 @@ click.lergao.com
 click.linktech.cn
 click.mediav.com
 click.mz.simba.taobao.com
+click.news.vans.com
 click.qianqian.com
 click.redditmail.com
 click.stat.hao.360.cn
