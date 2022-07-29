@@ -856,7 +856,6 @@ adres.myaora.net
 adrevolver.com
 adriver-sync.rutarget.ru
 adriver.ru
-adrolays.de
 adrotate.de
 adrotic.girlonthenet.com
 adrta.com
@@ -996,6 +995,7 @@ ads.fastcomgroup.it
 ads.fasttrack-ignite.com
 ads.faxo.com
 ads.feelingtouch.com
+ads.femmefab.nl
 ads.ferianc.com
 ads.fetnet.net
 ads.filmup.com
@@ -1263,6 +1263,7 @@ ads180.com
 ads2.brazzers.com
 ads2.clearchannel.com
 ads2.contentabc.com
+ads2.femmefab.nl
 ads2.gamecity.net
 ads2.hsoub.com
 ads2.msads.net
@@ -1719,7 +1720,6 @@ ama.adwo.com
 amae.zjcapital.cn
 amazingcounters.com
 amazon-adsystem.com
-amazonaax.com
 ambiguousquilt.com
 ambitiousagreement.com
 amdc.m.taobao.com
@@ -2338,7 +2338,6 @@ benfly.net
 berlipurplin.com
 berp.com
 bestboundary.com
-bestsearch.net
 beta.vpon.com
 betotodilea.com
 betsonsport.ru
@@ -3077,7 +3076,6 @@ consensu.org
 consequentlyinmate.com
 console-audienceiq-sjc2.turn.com
 contadores.miarroba.com
-contaxe.de
 content.acc-hd.de
 content.ad
 content.adriver.ru
@@ -3570,7 +3568,6 @@ dp.im.weibo.cn
 dp3.play.t002.ottcn.com
 dp3.qq.com
 dpbolvw.net
-dpgawov.com
 dpm.demdex.net
 dps.shouji56.com
 dpu.samsungelectronics.com
@@ -4625,7 +4622,6 @@ iframes.awempire.com
 ifs.tanx.com
 ifsk2.tanx.com
 ifv.ninebox.cn
-ihogaetw.com
 iis1.deliver.ifeng.com
 iis3g.deliver.ifeng.com
 ijeu.pdkzyy.cn
@@ -5364,7 +5360,6 @@ look.ichlnk.com
 look.opskln.com
 look.ufinkln.com
 loopme.com
-lop.com
 lottery.kuaiya.cn
 loudlunch.com
 lp.startapp.com
@@ -6326,6 +6321,7 @@ output.nend.net
 overconfidentfood.com
 overture.com
 ow.biqugego.com
+owebanalytics.com
 owebmoney.ru
 owin.biqugego.com
 owlsr.us
