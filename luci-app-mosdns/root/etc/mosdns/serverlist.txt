@@ -4041,6 +4041,7 @@ fm.ipinyou.com
 fm.p0y.cn
 fms.ipinyou.com
 foo.cosmocode.de
+foo.software
 foresee.com
 forex-affiliate.net
 forkcdn.com
