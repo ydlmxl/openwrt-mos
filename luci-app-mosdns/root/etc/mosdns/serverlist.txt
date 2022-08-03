@@ -1878,6 +1878,7 @@ api.iimedia.cn
 api.ijunhai.com
 api.intensifier.de
 api.itaoxiaoshuo.com
+api.iterable.com
 api.jsfc8.cn
 api.kameleoon.com
 api.lab.amplitude.com
@@ -4879,7 +4880,6 @@ isub.snssdk.com
 itaoxiaoshuo.com
 item.mediav.com
 itemifs.tanx.com
-iterable.com
 itop.cz
 its-that-easy.com
 its.fugetech.com
@@ -5002,6 +5002,7 @@ js.gewuwen.com
 js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
+js.iterable.com
 js.jianbaimei.com
 js.lovexia.top
 js.miaozhen.com
