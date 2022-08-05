@@ -333,7 +333,6 @@ ablinks.mail.hinge.co
 aboardlevel.com
 abruptroad.com
 absentstream.com
-absoluteclickscom.com
 absorbingband.com
 abstractedauthority.com
 absurdwater.com
@@ -451,7 +450,6 @@ ad.egou.com
 ad.eplayer.is
 ad.epochtimes.com
 ad.ettoday.net
-ad.eurosport.com
 ad.exyws.org
 ad.flipboard.com
 ad.flurry.com
@@ -743,7 +741,6 @@ adk2.com
 adktrack.com
 adland.ru
 adlaunch.moji.com
-adledge.com
 adlegend.com
 adlightning.com
 adlog.com.com
@@ -1143,7 +1140,6 @@ ads.praguetv.cz
 ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
-ads.privatemedia.co
 ads.program3.com
 ads.psd2html.com
 ads.pubmatic.com
@@ -3104,7 +3100,6 @@ copyrightaccesscontrols.com
 corebug.adsame.com
 coreldrawchina.com
 coremetrics.com
-cormast.com
 corner.houyi.baofeng.net
 corp.sohu.com
 cors.hot-mob.com
@@ -5362,6 +5357,7 @@ look.ichlnk.com
 look.opskln.com
 look.ufinkln.com
 loopme.com
+lop.com
 lottery.kuaiya.cn
 loudlunch.com
 lp.startapp.com
@@ -5681,7 +5677,6 @@ mathtype.cn
 matoakie.com
 matomo.activate.cz
 matomo.crossiety.app
-matomo.gals24.ru
 matomo.hdweb.ru
 matthewsery.com
 matwbp.iask.sina.com.cn
@@ -6404,7 +6399,6 @@ pagechoicemotu.gentags.net
 pagefair.com
 pagefair.net
 pagerank-ranking.de
-pagerank4you.com
 pageranktop.com
 pages-juxiao.mediav.com
 pages.juxiao.mediav.com
@@ -6563,6 +6557,7 @@ pixel-a.sitescout.com
 pixel-hk.pixelinteractivemedia.com
 pixel.adsafeprotected.com
 pixel.advertising.com
+pixel.app.returnpath.net
 pixel.condenastdigital.com
 pixel.digitru.st
 pixel.keywee.co
@@ -7378,7 +7373,6 @@ s97.cnzz.com
 s98.cnzz.com
 s99.cnzz.com
 sa.adeaz.com
-sa.api.intl.miui.com
 sa.tuisong.baidu.com
 sa0.tuisong.baidu.com
 sa1.tuisong.baidu.com
