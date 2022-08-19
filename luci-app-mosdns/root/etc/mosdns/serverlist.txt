@@ -2470,7 +2470,6 @@ bsch.serving-sys.com
 bsiet.husky.sogou.com
 bss.pandora.xiaomi.com
 bsv.atm.youku.com
-btez8.xyz
 btn.onlylady.com
 btrace.play.t002.ottcn.com
 btrace.qq.com
@@ -7536,7 +7535,6 @@ separatesilver.com
 serial.alcohol-soft.com
 serv0.com
 servads.net
-servadsdisrupt.com
 serve.popads.net
 serve.tercept.com
 servedby-buysellads.com
@@ -9181,7 +9179,6 @@ whirlwealth.com
 whiskyqueue.com
 whispa.com
 whisperingcrib.com
-whisperingflesh.com
 whn.star-media.cn
 whoisonline.net
 wholecoolposts.com
