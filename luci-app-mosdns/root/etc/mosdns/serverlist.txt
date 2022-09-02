@@ -2089,6 +2089,7 @@ autobild.adsame.com
 automaticflock.com
 av.u5m4.cn
 av1.xdrig.com
+avalonalbum.com
 avazutracking.net
 avenuea.com
 avn.innity.com
@@ -2098,6 +2099,7 @@ aw.kejet.net
 awakebird.com
 awempire.com
 awesomeagreement.com
+awesomeattack.com
 awin1.com
 aws.dsp.madserving.com
 awstrack.me
@@ -2171,7 +2173,6 @@ banner.elisa.net
 banner.eurogrand.com
 banner.finzoom.ro
 banner.goldenpalace.com
-banner.icmedia.eu
 banner.img.co.za
 banner.inyourpocket.com
 banner.linux.se
@@ -2335,6 +2336,7 @@ benfly.net
 berlipurplin.com
 berp.com
 bestboundary.com
+bestsearch.net
 beta.vpon.com
 betotodilea.com
 betsonsport.ru
@@ -2376,6 +2378,7 @@ bitmedianetwork.com
 biz.live.xunlei.com
 biz.vpon.com
 bizad.nikkeibp.co.jp
+bizarrebaseball.com
 bizible.com
 bizographics.com
 bizrate.com
@@ -2605,6 +2608,7 @@ call-ad-network-api.marchex.com
 callousbrake.com
 callrail.com
 calmcactus.com
+calypsocapsule.com
 campaign.bharatmatrimony.com
 caniamedia.com
 canvas.gdt.qq.com
@@ -3043,6 +3047,7 @@ completecabbage.com
 complextoad.com
 comprabanner.it
 concernedcondition.com
+concerneddrink.com
 conde.adsame.com
 conditionchange.com
 conductrics.com
@@ -3075,6 +3080,7 @@ console-audienceiq-sjc2.turn.com
 contadores.miarroba.com
 contaxe.de
 content.acc-hd.de
+content.ad
 content.adriver.ru
 content.s8bbs.com
 content22.online.citi.com
@@ -3089,6 +3095,7 @@ conversionruler.com
 convertingtraffic.com
 convrse.media
 coocaa.admaster.com.cn
+cookchalk.com
 cookies.cmpnet.com
 coordinatedcub.com
 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
@@ -3195,6 +3202,7 @@ creatives1.ftimg.net
 criteo.com
 criteo.net
 critictruck.com
+crowdedmass.com
 crowdgravity.com
 crs.baidu.com
 crsspxl.com
@@ -3217,6 +3225,7 @@ cubiq.org
 culturedcrayon.com
 cumbersomecloud.com
 curtaincows.com
+curvedsquirrel.com
 custom.plausible.io
 customad.cnn.com
 customads.co
@@ -3944,6 +3953,7 @@ fadedprofit.com
 fadedsnow.com
 faggrim.com
 fair.sogou.com
+fairfeeling.com
 fallaciousfifth.com
 fam-ad.com
 famousquarter.com
@@ -4093,6 +4103,7 @@ fun.adx.admaster.com.cn
 functionalcrown.com
 funklicks.com
 funnelytics.io
+furryfork.com
 fusionads.net
 fusionquest.com
 futuristicapparatus.com
@@ -4233,6 +4244,7 @@ giddycoat.com
 gif.lu.sogoucdn.com
 gimg.bitauto.com
 girlcc.cc
+glisteningsign.com
 gload.adhood.com
 global.msads.net
 global.ymtracking.com
@@ -4298,7 +4310,6 @@ groundtruth.com
 growingio.com
 growth-support.applovin.com
 growth-tracking.adroll.com
-grychiphidu.com
 gscontxt.net
 gslb.hpplay.cn
 gsp0.baidu.com
@@ -4387,12 +4398,14 @@ hdscout.com
 hdt.adx.admaster.com.cn
 health1.12584.cn
 heap.com
+hearinglizards.com
 hechaocheng.cn
 heias.com
 heimo.rrsdl.com
 hellobar.com
 help.cnzz.com
 help.yunaq.com
+helpcollar.com
 hentaicounter.com
 herbalaffiliateprogram.com
 hermes.hupu.com
@@ -4968,6 +4981,7 @@ jira.vpon.com
 jizzads.com
 jjx.xjtxcj.com
 joetec.net
+joyoussurprise.com
 jp.as.pptv.com
 jpg.inte.sogoucdn.com
 jpush.html5.qq.com
@@ -5263,6 +5277,7 @@ liveadexchanger.com
 livec.l.qq.com
 liveintent.com
 livelylaugh.com
+livelyreward.com
 livem.l.qq.com
 livep.l.ott.video.qq.com
 livep.l.qq.com
@@ -5374,6 +5389,7 @@ lu.sogou.com
 lucidmedia.com
 lucklayed.info
 luckyorange.com
+ludicrousarch.com
 luotediao.net
 lwz.ffhre.com
 lx-upload-log.yidianzixun.com
@@ -5609,6 +5625,8 @@ mads.advertising.com
 mads.amazon-adsystem.com
 madvertise.de
 magicadz.co
+magicaljoin.com
+magicalmonth.com
 magnificentmist.com
 mail-ad1.hisys.hinet.net
 mail-ad2.hisys.hinet.net
@@ -5828,6 +5846,7 @@ minipage.2345.com
 minisite.vidown.cn
 minormeeting.com
 mintegral.com
+minuterhythm.com
 mipcache.bdstatic.com
 mipengine.baidu.com
 mishop.pandora.xiaomi.com.
@@ -6140,6 +6159,7 @@ nondescriptcrowd.com
 nondescriptnote.com
 nondescriptsmile.com
 nondescriptstocking.com
+nothingunit.com
 notifiter.youmi.net
 notify.51dzt.com
 novelsns.html5.qq.com
@@ -6418,6 +6438,7 @@ paradoxfactor.com
 parallelsdesktop.cn
 parchedangle.com
 parchedsofa.com
+pardonpopular.com
 parking.bodiscdn.com
 parsely.com
 parser.houyi.baofeng.net
@@ -6514,6 +6535,7 @@ photographpan.com
 phpad.cqnews.net
 phpadsnew.new.natuurpark.nl
 phs.tanx.com
+physicalbikes.com
 piano.io
 pibaba.com.cn
 pic.adeaz.com
@@ -6583,6 +6605,7 @@ pkg.toponad.com
 pl108258.puserving.com
 pl14369502.puserving.com
 placed.com
+placeframe.com
 plat.videojj.com
 plausibleio.workers.dev
 play-vids.com
@@ -6597,6 +6620,7 @@ plotrabbit.com
 plt.data.pplive.com
 pltraffic8.com
 pluckypocket.com
+pluckytaste.com
 plugrush.com
 pmh.souid.com
 pmir.3g.qq.com
@@ -6717,6 +6741,7 @@ psma02.com
 psptoolapi.ctags.cn
 pstarv.cn
 pstmrk.it
+psychedelicchess.com
 pt.clickdata.37wan.com
 ptoushoa.com
 pub.chez.com
@@ -7062,6 +7087,7 @@ richmails.com
 richstring.com
 rigel.baidustatic.com
 rightstats.com
+ringplant.com
 ringsrecord.com
 ritzykey.com
 river.zhidao.baidu.com
@@ -7425,6 +7451,8 @@ sc.iasds01.com
 scambiobanner.aruba.it
 scanscout.com
 scarcesign.com
+scaredsnakes.com
+scaredswing.com
 scarfsmash.com
 scatteredheat.com
 sccdn.f2zd.com
@@ -7720,12 +7748,14 @@ smetrics.fedex.com
 smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
+smilingcattle.com
 smilingwaves.com
 smoggysnakes.com
 smr.snssdk.com
 smrtb.com
 smt.admaster.com.cn
 smucdn.com
+snailscart.com
 snap.snapmobile.asia
 snapads.com
 sngmta.qq.com
@@ -7783,11 +7813,13 @@ speedshiftmedia.com
 spezialreporte.de
 spidersboats.com
 spiffymachine.com
+spikyslave.com
 spinbox.techtracker.com
 spinbox.versiontracker.com
 spinfo.wps.cn
 spinnaker-js.com
 spirebaboon.com
+spitefulstop.com
 spnet2-1.i-mobile.co.jp
 spnet33.i-mobile.co.jp
 sponsorads.de
@@ -8319,6 +8351,7 @@ test2014.adview.cn
 test2018.adview.cn
 test2019.adview.cn
 testad.hot-mob.com
+teststocking.com
 text-link-ads.com
 textad.sexsearch.com
 textads.biz
@@ -8757,7 +8790,9 @@ umengacs.m.taobao.com
 ums.adtechus.com
 un2.banmamedia.com
 unarmedindustry.com
+unbecomingbikes.com
 unconf.mobad.ijinshan.com
+understoodocean.com
 undertone.com
 union.baidustatic.guannin.com
 union.dangdang.com
@@ -9022,6 +9057,7 @@ voluumtrk2.com
 volvelle.tech
 voq3450129.y4j32.cn
 vortex-win-sandbox.data.microsoft.com
+voyagepotato.com
 vpgf.qianyilamian.cn
 vpn.szdatayj.com
 vpn.tuodupingguomiao.com
@@ -9817,6 +9853,7 @@ yahafda.qivsod.com
 yam.adsbro.com
 yamada.ad.dev.nend.net
 yamada2-dev.nend.net
+yamstamp.com
 yaolan.adsame.com
 ycjisa.cn
 ydjs.zol.com.cn
