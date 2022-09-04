@@ -4845,7 +4845,6 @@ inte.theta.sogoucdn.com
 intelliads.com
 intelligenceadx.com
 intellitxt.com
-intentsify.io
 interaction.bayimob.com
 interaction1.bayimob.com
 interactive.forthnet.gr
@@ -8573,6 +8572,7 @@ tracking.epicgames.com
 tracking.exipure.com
 tracking.hyros.com
 tracking.ibxlink.com
+tracking.intentsify.io
 tracking.internetstores.de
 tracking.intl.miui.com
 tracking.jiffyworld.com
