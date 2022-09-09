@@ -2067,6 +2067,7 @@ atplay.cn
 att.stargame.com
 attach.s8bbs.com
 attadworks.turn.com
+attractionbanana.com
 attractiveafternoon.com
 attribution.report
 atwola.com
@@ -2372,7 +2373,6 @@ bima.weathercn.com
 binaryage-leechgate.herokuapp.com
 bingads.microsoft.com
 bingdianhuanyuan.cn
-biosda.com
 bite.theta.sogoucdn.com
 bitmedianetwork.com
 biz.live.xunlei.com
@@ -5374,7 +5374,6 @@ look.ichlnk.com
 look.opskln.com
 look.ufinkln.com
 loopme.com
-lop.com
 lottery.kuaiya.cn
 loudlunch.com
 lp.startapp.com
@@ -6003,6 +6002,7 @@ mtrace.play.t002.ottcn.com
 mtrcs.samba.tv
 mtree.com
 munchkin.marketo.net
+mundanenail.com
 mundanepollution.com
 munion.mediav.com
 musiccounter.ru
