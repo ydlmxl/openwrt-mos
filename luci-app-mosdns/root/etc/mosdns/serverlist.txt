@@ -1643,6 +1643,7 @@ afpmm.alicdn.com
 afpssp.alimama.com
 afptrack.alimama.com
 afptrack.csbew.com
+afraidlanguage.com
 afs.googlesyndication.com
 agd.p.360.cn
 agd2.p.360.cn
@@ -3110,6 +3111,7 @@ coremetrics.com
 corner.houyi.baofeng.net
 corp.sohu.com
 cors.hot-mob.com
+cosmosjackson.com
 count.1133.cc
 count.chanet.com.cn
 count.knowsky.com
@@ -5731,6 +5733,7 @@ me.com.x9wj2.cn
 me.xdrig.com
 measure.office.com
 measuremap.com
+meatydime.com
 med-fe.cdn.bcebos.com
 medal.blog.csdn.net
 media-adrunner.mycomputer.com
