@@ -2865,7 +2865,6 @@ click2forhz.adsmogo.com
 click2freemoney.com
 click360v2-ingest.azurewebsites.net
 click3forhz.adsmogo.com
-clickability.com
 clickadu.com
 clickadz.com
 clickagents.com
@@ -6132,7 +6131,6 @@ news.push.126.net
 news.qhstatic.com
 news.s9377.com
 news.xueyanshan.com
-newsadsppush.com
 newsbee.adeaz.com
 newsletter-link.com
 newspage.xilu.com
@@ -8222,7 +8220,6 @@ t.iz55.com
 t.ksrong.com
 t.l.qq.com
 t.leady.com
-t.news.browns-restaurants.co.uk
 t.notif-colissimo-laposte.info
 t.pzclw.cn
 t.qiuqiuqipai.com
@@ -8373,6 +8370,7 @@ the-ozone-project.com
 theadex.com
 theadhost.com
 thebugs.ws
+theclickads.com
 thefatherofsalmon.com
 themoneytizer.com
 therapistla.com
