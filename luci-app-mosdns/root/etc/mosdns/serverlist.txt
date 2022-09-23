@@ -416,7 +416,6 @@ ad.adwo.com
 ad.agrantsem.com
 ad.alimama.com
 ad.allboxing.ru
-ad.allstar.cz
 ad.altervista.org
 ad.amgdgt.com
 ad.anuntis.com
@@ -1570,7 +1569,6 @@ adx.ads.oppomobile.com
 adx.adxglobal.com
 adx.agrantsem.com
 adx.alimama.com
-adx.allstar.cz
 adx.atnext.com
 adx.chip.de
 adx.dlads.cn
@@ -1595,7 +1593,6 @@ adzbazar.com
 adzerk.net
 adzerk.s3.amazonaws.com
 adzestocp.com
-adzones.com
 adzrevads.com
 ae.bdstatic.com
 aecpm.alicdn.com
@@ -5263,7 +5260,6 @@ linkprice.com
 linkrain.com
 linkreferral.com
 links-ranking.de
-linkshighway.com
 linkstorms.com
 linkswaper.com
 linktarget.com
@@ -6074,7 +6070,6 @@ nastydollars.com
 native.propellerads.com
 nativeads.cacafly.com
 nativeroll.tv
-naturalbid.com
 navegg.com
 navigator.io
 navrcholu.cz
@@ -8221,6 +8216,7 @@ t.iz55.com
 t.ksrong.com
 t.l.qq.com
 t.leady.com
+t.news.browns-restaurants.co.uk
 t.notif-colissimo-laposte.info
 t.pzclw.cn
 t.qiuqiuqipai.com
